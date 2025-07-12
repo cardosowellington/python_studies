@@ -1,8 +1,7 @@
-# Calculadora de idade
-# Este programa calcula a idade de uma pessoa
-# com base na data de nascimento e na data atual
-# importar a biblioteca datetime
-# para manipulação de datas
+# Age calculator
+# This program calculates a person's age
+# based on the date of birth and the current date
+# import datetime
 
 from datetime import datetime
 
