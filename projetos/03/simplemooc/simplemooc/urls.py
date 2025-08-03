@@ -18,8 +18,8 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    # Admin URL
-    path('admin/', admin.site.urls),
     # Core application URLs
     path('', include('simplemooc.core.urls')),
+    # Admin URL
+    path('admin/', admin.site.urls),
 ]
