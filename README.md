@@ -20,7 +20,7 @@ Utiliza a biblioteca `datetime` para manipulação e comparação de datas.
 
 ### 🌐 Projeto 02 – MiniCurso Python + Flask (Rocketseat)
 Projeto criado durante um minicurso da Rocketseat, com foco na introdução ao desenvolvimento web utilizando Python com o framework Flask.  
-Explora conceitos como rotas, templates e execução de servidor local.
+Explora conceitos como rotas e execução de servidor local.
 
 ## 📚 Estrutura do repositório
 
